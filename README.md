@@ -1,1 +1,5 @@
-# portfolio-2
+index.html
+style.css
+script.js
+images/
+README.md
